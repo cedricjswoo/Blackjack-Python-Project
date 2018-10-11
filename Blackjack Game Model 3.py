@@ -4,7 +4,6 @@ import random
 #   6 Decks 
 #   Dealer Stays on all 17
 #   Blackjack pays 2-1
-#   No Doubling Down
 #   Dealer reshuffles after 1/2 deck
 
 
